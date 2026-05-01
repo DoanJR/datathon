@@ -245,7 +245,7 @@ SEED = 42
 
 Ngoài ra, LightGBM cũng dùng `random_state=42`.
 
-Để tái lập kết quả, nên:
+Để tái lập kết quả:
 
 1. Dùng cùng phiên bản Python và thư viện trong `requirements.txt`.
 2. Không thay đổi dữ liệu đầu vào.
