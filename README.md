@@ -9,9 +9,8 @@ project_folder/
 │   ├── sales.csv
 │   └── sample_submission.csv
 └── outputs/
-    ├── submission_lightgbm.csv
+    ├── submission.csv
     ├── submission_ensemble.csv
-    ├── submission_anchor_residual.csv
     ├── submission_recursive_yoy.csv
     ├── submission_baseline.csv
     ├── prediction_components.csv
