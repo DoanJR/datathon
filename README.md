@@ -225,7 +225,7 @@ Sau khi chạy thành công, các file quan trọng trong `outputs/` gồm:
 
 | File                                    | Mô tả                                 |
 | --------------------------------------- | ------------------------------------- |
-| `submission.csv`                        | File chính khuyến nghị nộp Kaggle     |
+| `submission.csv`                        | File chính nộp Kaggle     |
 | `submission_ensemble.csv`               | Submission từ ensemble                |
 | `submission_recursive_yoy.csv`          | Submission từ mô hình recursive YoY   |
 | `submission_baseline.csv`               | Submission từ seasonal naive baseline |
